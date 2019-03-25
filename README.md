@@ -19,7 +19,7 @@
 &nbsp;&nbsp;**python clustering.py RP**  
 &nbsp;&nbsp;**python clustering.py RF**  
 
-&nbsp;&nbsp;For task 2 and 4, run::  
+&nbsp;&nbsp;For task 2 and 4, run:  
 &nbsp;&nbsp;**python PCA.py**  
 &nbsp;&nbsp;**python ICA.py**  
 &nbsp;&nbsp;**python RP.py**  
